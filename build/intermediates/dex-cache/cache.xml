@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sidiq\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0-379b3413eebb50ccee98d6deecfcf4b4e3328936.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sidiq\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\gson-2.3.1-49e5ee80e8eb61a34b3c8d80604fdaafe35eae5e.jar" />
+    </item>
+    <item
+        jar="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\classes-bd360bb2a15f7d65bdf9bca867b17bfa2ad4776c.jar" />
+    </item>
+    <item
+        jar="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\classes-48b52671693515b616cb43f015cf6b29dae7e49c.jar" />
+    </item>
+    <item
+        jar="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-7f36c9c94d55b06f84b2e6ec64d4e8621da8f486.jar" />
+    </item>
+    <item
+        jar="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3-1151398921f80d1ca458ab5ba55e2cb5dc945e0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sidiq\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="D:\NUSANTARA BETA STUDIO\ExSYS-ENRIKO\UpdatedCode\app\build\intermediates\pre-dexed\release\library-1.0.18-77bf6db69e84cb25dae927a7d35556c8202a51f6.jar" />
+    </item>
+
+</items>

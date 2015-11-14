@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Kardio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_tambah">Tambah</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_bpm">BpmActivity</string>
+    <string name="title_activity_weight">WeightActivity</string>
+    <string name="title_activity_add_new_blood_pressuare">AddNewBloodPressuareActivity</string>
+
+</resources>
